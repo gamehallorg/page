@@ -1,2 +1,2 @@
 # 
-[page](https://gamehallorg.github.io/page/)
+[page repo](https://gamehallorg.github.io/page/)
