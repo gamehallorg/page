@@ -2,7 +2,7 @@
 layout: post
 title: "Cracking Down on Online Gaming: China's Latest Move to Rein in Spending"
 date:   2023-12-25 2:42:52 +0000
-categories: Game roblox  Robux
+categories: Game China
 ---
 ## New Regulations Propose Limiting Rewards and Capping Deposits
 
