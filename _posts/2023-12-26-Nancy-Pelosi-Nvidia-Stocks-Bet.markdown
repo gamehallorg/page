@@ -2,7 +2,7 @@
 layout: post
 title: "Nancy Pelosi Bets Big on Nvidia Stocks Again"
 date:   2023-12-26 12:42:52 +0000
-categories: AI roblox  stock
+categories: AI roblox stock
 ---
 
 ### Pelosi's recent Nvidia call option purchase
