@@ -51,7 +51,7 @@ minima:
 
   # Generate social links in footer.
   social_links:
-  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+  - { platform: quora,       user_url: "https://www.quora.com/profile/Page-256" }
   - { platform: reddit,         user_url: "https://www.reddit.com/u/ShinyPride4865/" }
   - { platform: github,         user_url: "https://github.com/gamehallorg/page" }
   - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
