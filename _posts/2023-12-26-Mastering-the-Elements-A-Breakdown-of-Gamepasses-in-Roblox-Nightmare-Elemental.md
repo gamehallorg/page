@@ -12,7 +12,7 @@ Roblox Nightmare Elemental takes players to a dynamic world where elements like 
 Roblox users find hidden spots throughout the virtual journey that present unique elemental obstacles, forcing them to exercise strategic thinking and polish their combat skills. These environments are infused by the Nightmare Elemental, resulting in a dynamic and engrossing gameplay experience.
 
 It is essential to the adventure to obtain gamepasses, which act as doors to special features, uncommon goods, and faster advancement. Roblox players use these gamepasses to overcome obstacles, discover the secrets of elemental mastery, and emerge victorious.
-
+![](https://staticg.sportskeeda.com/editor/2023/12/a446b-17035411688507-1920.jpg)
 ### Best gamepasses in December 2023
 
 #### 1. Mega Luck
