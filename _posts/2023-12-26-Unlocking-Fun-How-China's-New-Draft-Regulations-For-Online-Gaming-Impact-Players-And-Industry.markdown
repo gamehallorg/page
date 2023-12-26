@@ -4,10 +4,11 @@ title: "Cracking Down on Online Gaming: China's Latest Move to Rein in Spending"
 date:   2023-12-25 2:42:52 +0000
 categories: Game China
 ---
+![](https://cdn.tuoitre.vn/thumb_w/1200/471584752817336320/2023/12/24/nguoi-choi-game-trung-quoc-read-only-17033799052951887035094.jpg)
+
 ## New Regulations Propose Limiting Rewards and Capping Deposits
 
 China has delivered a major blow to its massive online gaming industry with its newly proposed regulations aimed at curbing excessive spending within games. The draft rules under review suggest limiting rewards that incentivize repeated spending as well as capping how much money users can deposit each day or month.
-![](https://cdn.tuoitre.vn/thumb_w/1200/471584752817336320/2023/12/24/nguoi-choi-game-trung-quoc-read-only-17033799052951887035094.jpg)
 
 If implemented, the changes would have wide-ranging impacts across China's games market as well as the fortunes of industry giants like Tencent and NetEase. Stocks in these companies plummeted when the new policies were announced as investors fretted over reduced monetization opportunities going forward.
 However, Beijing insists the regulations are needed to foster a healthier environment for both players and businesses over the long run. Promoting responsible habits among users, especially minors, remains a key government priority even as economic concerns swirl.
