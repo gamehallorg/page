@@ -6,10 +6,10 @@ categories: AI roblox stock
 ---
 
 ### Pelosi's recent Nvidia call option purchase
+![](https://nypost.com/wp-content/uploads/sites/2/2023/12/former-house-speaker-nancy-pelosi-72401633.jpg)
 According to recent disclosure forms, former House Speaker Nancy Pelosi and her husband Paul Pelosi purchased 50 call options on Nvidia stock last month. The call options have a strike price of $120 and an expiration date of December 20, 2024. The total value of the transaction was between $1 million to $5 million.
 
 A call option gives the holder the right, but not obligation, to buy the underlying asset (in this case Nvidia stock) at a predetermined price (the strike price of $120) by a certain date (the expiration date of 12/20/2024). This allows Pelosi to profit if Nvidia stock rises above $120 per share by that expiration date.
-![](https://nypost.com/wp-content/uploads/sites/2/2023/12/former-house-speaker-nancy-pelosi-72401633.jpg)
 ### Past investments and controversy over congressional stock trading
 
 Paul Pelosi is a noted investor and the couple has a reported net worth of over $140 million. In the past, they have profited millions from call options on other big tech stocks like Google, Salesforce, Roblox and Disney.
