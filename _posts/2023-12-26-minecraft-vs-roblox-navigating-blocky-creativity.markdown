@@ -2,7 +2,7 @@
 layout: post
 title: "Unlocking Fun: How Much Robux Can You Get with a $25 Gift Card?"
 date:   2023-12-26 0:42:52 +0000
-categories: game roblox minecraft
+categories: game roblox  Robux
 ---
 
 Roblox, the popular online gaming platform, has captured the hearts of millions with its immersive virtual worlds and creative games. For players looking to enhance their experience, Robux, the in-game currency, plays a crucial role. If you've ever wondered how much Robux you can get with a $25 gift card, we've got the answers for you.
