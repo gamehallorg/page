@@ -4,10 +4,9 @@ title: "Unlocking Beautiful Visual Puzzles: 7 Stunning Puzzle Games You Need to 
 date:   2023-12-26 16:42:52 +0000
 categories: game  Puzzle
 ---
+![](https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2023/12/26/uzcalzxqa2hs5vllxmi5zw-1703578395376-17035783958681706585933.jpg)
 
 ### The Witness 
-
-![](https://gamek.mediacdn.vn/thumb_w/640/133514250583805952/2023/12/26/uzcalzxqa2hs5vllxmi5zw-1703578395376-17035783958681706585933.jpg)
 
 The Witness is an open world puzzle game with absolutely stunning visuals. You explore a mysterious island, solving logical puzzles and challenging maze-like structures with elegant designs. The hand-drawn landscapes and thoughtful puzzle design create a mesmerizing world to become immersed in. Puzzles are placed strategically throughout the island, regularly revealing new mechanics and concepts to apply. Puzzles range from simple to devilishly complex, testing both logic and patience. While the game can feel overwhelming due to its non-linear puzzle structure, persevering through challenges brings great satisfaction. 
 
