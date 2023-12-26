@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Nancy Pelosi Bets Big on Nvidia Stocks Again
-date:   2023-12-26 12:42:52 +0000
+title:  "Nancy Pelosi Bets Big on Nvidia Stocks Again"
+date:   2023-12-26 1:42:52 +0000
 categories: AI roblox stock
 ---
 
