@@ -5,8 +5,9 @@ date:   2023-12-26 8:42:52 +0000
 categories: game  Minecraft
 ---
 
+![Minecraft 1.21's changes to copper and tuff should inspire more updates](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/Amethyst2.jpg)
 ## Minecraft 1.21's changes to copper and tuff should inspire more updates
-![](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/08/Amethyst2.jpg)
+
 Minecraft's 1.21 update is bringing new decorative variants to copper and tuff blocks, expanding their potential uses. While new features like trial chambers and auto-crafters have received more attention, these copper and tuff updates indicate the developers want to make underused blocks more relevant. There is opportunity to continue this trend with other blocks left behind in the ever-growing game.
 
 Copper was initially disappointing to players due to lacking significant purpose beyond an early-game material. Its oxidation effect was interesting but not enough on its own. Version 1.21 is a step in the right direction by giving copper grating and bulbs, helping it feel more integrated as a decorative material. More importantly, it shows an openness to enhance block utility beyond basics. This approach could rescue other overlooked additions from being forgotten.
