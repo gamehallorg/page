@@ -1,15 +1,12 @@
 title: Game News Today
 author:
   name: GitHub User
-  email: your-email@domain.com
+  email: dev@gamehall
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
+  "Game News Today: Your go-to source for the latest gaming updates, breaking news, reviews, and exclusive features.> Stay informed, stay entertained. Level up your gaming experience with us!"
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
@@ -33,7 +30,7 @@ header_pages:
   - History.markdown
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
