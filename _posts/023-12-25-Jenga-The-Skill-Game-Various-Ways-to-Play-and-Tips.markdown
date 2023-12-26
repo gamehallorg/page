@@ -4,9 +4,8 @@ title: "Jenga - The Game of Dexterity"
 date:   2023-12-24 2:42:52 +0000
 categories: Game China
 ---
-![](https://cdn.tgdd.vn//GameApp/-1//JENGA-COVER-800x450.jpg)
-
 Jenga is a game that requires dexterity and is enjoyed by many. With just a set of wooden blocks, you can play Jenga in many different forms. In this post, I will guide you through the various ways to play Jenga and the basic rules and tips for this classic game. Let's take a look!
+![](https://cdn.tgdd.vn//GameApp/-1//JENGAUNO-800x450.jpg)
 
 ### What is Jenga? The Origin of the Game
 
@@ -27,7 +26,6 @@ Numbered Jenga is one of the classic and most basic ways to play. Here are some 
 ![](https://cdn.tgdd.vn//GameApp/-1//JENGATINHIU-800x450.jpg)
 
 **Point Value:** Corresponds the die roll to a range of block numbers (e.g. 1=1-10, 2=11-20).
-![](https://cdn.tgdd.vn//GameApp/-1//JENGAUNO-800x450.jpg)
 
 ### Uno Jenga Rules
 
