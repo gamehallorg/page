@@ -37,6 +37,32 @@ layout: base
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
+{% assign current_post_category = page.categories | first %}
+
+{% if site.posts.size > 1 and current_post_category %}
+  <section class="post-list">
+    <h2 class="post-list-heading">{{ site.data.labels.posts | default: 'Related Posts' }}</h2>
+    <ul>
+      {% assign current_post_url = page.url %}
+      {% assign count = 0 %}
+
+      {% for post in site.posts limit: 2 %}
+        {% if post.url != current_post_url and post.categories contains current_post_category and count < 5 %}
+          <li>
+            <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+            <h3 class="post-link">
+              <a href="{{ post.url | relative_url }}" title="{{ post.title }}">{{ post.title }}</a>
+            </h3>
+            <p class="post-excerpt">{{ post.excerpt }}</p>
+          </li>
+          {% assign count = count | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+{% endif %}
+
+
 {% if site.posts.size > 1 %}
   <section class="post-list">
     <h2 class="post-list-heading">{{ site.data.labels.posts | default: 'Latest Posts' }}</h2>
@@ -56,3 +82,4 @@ layout: base
     </ul>
   </section>
 {% endif %}
+
