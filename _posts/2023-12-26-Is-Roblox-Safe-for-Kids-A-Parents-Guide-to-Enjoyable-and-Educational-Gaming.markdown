@@ -2,7 +2,7 @@
 layout: post
 title: "Is Roblox Safe for Kids? A Parents Guide to Enjoyable and Educational Gaming"
 date:   2023-12-26 18:42:52 +0000
-categories: Game Roblox
+categories: Roblox Game 
 ---
 ![](https://qph.cf2.quoracdn.net/main-qimg-44be7e7cf96cf6fda5758322127372fb-lq)
 
