@@ -10,6 +10,72 @@ categories: Roblox Blox
 
 The latest Blox Fruits codes provide some great temporary buffs that can jumpstart your progress in the game. Codes like "FREEMERCAHNDISE" offer 20 minutes of 2x EXP, which you'll want to use during intensive grinding sessions against high-level mobs. Popping a 2x EXP code when taking on mobs that grant 10,000+ EXP each will skyrocket your level growth. Other active codes boost beli, fps (fruit points), or add rare inventory items. Make sure to redeem codes as soon as you obtain them to take full advantage of the buffs. Checking sources like the Blox Fruits Discord daily can help you stay on top of newly released codes.
 
+### All Blox Fruits Codes
+
+#### Active Blox Fruits Codes (Working)
+
+    Axiore—Redeem code for 20 Minutes of 2x Experience
+    BIGNEWS—Redeem code for an in-game title
+    Bluxxy—Redeem for a Boost
+    Enyu_is_Pro—Redeem for 20 minutes of 2x EXP Boost
+    FUDD10—Redeem code for $1
+    JCWK—Redeem for 20 minutes of 2x EXP Boost
+    KITT_RESET—Redeem for a Stat Refund or Reset (New)
+    Magicbus—Redeem for 20 minutes of 2x EXP Boost
+    NEWTROLL—Redeem for a 20 minutes of 2x EXP Boost (New)
+    SECRET_ADMIN—Redeem for a 20 minutes of 2x EXP Boost (New)
+    SUB2GAMERROBOT_EXP1—Redeem for 30 Minutes of 2x Experience
+    SUB2GAMERROBOT_RESET1—Redeem for a free Stat Reset
+    SUB2NOOBMASTER123—Redeem code for 15 Minutes of 2x Experience
+    Starcodeheo—Redeem for 20 minutes of 2x EXP Boost
+    StrawHatMaine—Redeem for 20 minutes of 2x Experience
+    Sub2CaptainMaui—Redeem for 20 minutes of 2x EXP Boost
+    Sub2Daigrock—Redeem code for 15 Minutes of 2x Experience
+    Sub2Fer999—Redeem for 20 minutes of 2x EXP Boost
+    Sub2OfficialNoobie—Redeem code for 20 Minutes of 2x Experience
+    Sub2UncleKizaru—Redeem code for a Stat Refund
+    THEGREATACE—Redeem code for 20 Minutes of 2x Experience
+    TantaiGaming—Redeem code for 15 Minutes of 2x Experience
+    fudd10_v2—Redeem code for 2 Beli
+    kittgaming—Redeem for 20 minutes of 2x EXP Boost
+
+#### Expired Blox Fruits Codes (Inactive)
+
+    DEVSCOOKING—Redeem for 20 minutes of 2x EXP Boost
+    JULYUPDATE_RESET—Redeem for a Stat Reset
+    staffbattle—Redeem for 20 minutes of 2x EXP Boost
+    ADMIN_TROLL—Redeem for a 20 minutes of 2x EXP Boost
+    youtuber_shipbattle—Redeem for 20 minutes of 2x EXP Boost
+    youtuber_shipbattle—Redeem for 20 minutes of 2x EXP Boost
+    CINCODEMAYO_BOOST—Redeem for 20 mins of 2x EXP Boost
+    DRAGONABUSE—Redeem for 20 mins of 2x EXP Boost
+    15B_BESTBROTHERS—Redeem for 60 minutes of 2x EXP Boost
+    CODE_SERVICIO—Redeem for 20 minutes of 2x EXP Boost
+    NOOB_REFUND—Redeem for a free Stat Reset
+    TY_FOR_WATCHING—Redeem for 20 minutes 2x EXP Boost
+    GAMERROBOT_YT—Redeem for 2x EXP Boost
+    SUB2GAMERROBOT_RESET1—Redeem for a free Stat Reset
+    GAMER_ROBOT_1M—Redeem for 1 hour and 30 minutes 2x EXP Boost
+    SUBGAMERROBOT_RESET—Redeem for a free Stat Reset
+    ADMINGIVEAWAY—Redeem for 20 minutes of 2x EXP Boost
+    RESET_5B—Redeem to refund points
+    EXP_5B—Redeem for 2x EXP Boost
+    3BVISITS - Redeem for 30 Minutes of 2x EXP
+    UPD16 - Redeem for 20 minutes of 2x EXP
+    1MLIKES_RESET - Redeem for Stat Reset
+    2BILLION - Redeem for 20 Minutes of 2x EXP
+    THIRDSEA - Redeem for Stat Reset
+    UPD15 - Redeem for 20 minutes of 2x EXP
+    UPD14 - Redeem code for XP
+    ShutDownFix2 - Redeem code for 2x Experience
+    1BILLION - Redeem code for two hours of 2x Experience
+    XMASEXP - Redeem code for 2x Experience
+    XMASRESET - Redeem code for Stat Reset
+    UPDATE11 - Redeem code for 30 Minutes of 2x Experience
+    POINTSRESET - Redeem code for a point reset
+    Stat Refund: UPDATE10
+    15 Minutes of 2x Experience: CONTROL
+
 ### Strategically Time Your Code Usage for Maximum Efficiency
 
 Rather than burning through codes the moment you get them, save powerful buffs like 2x EXP for sessions against enemies offering massive EXP payouts in the game's endgame areas. Knowing enemy levels and typical EXP drops will help you optimize code usage. For example, saving 2x EXP for taking on 400+ level mobs that grant 50,000+ EXP each could level you up multiple times in one session. Proper timing of boost codes is key to unlocking the highest level areas, skills, and abilities at a much faster pace than others. Plan out your leveling to get the most out of limited duration boosts.
