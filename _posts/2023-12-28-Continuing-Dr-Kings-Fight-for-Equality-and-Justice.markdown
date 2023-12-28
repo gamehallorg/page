@@ -2,7 +2,7 @@
 layout: post
 title: "Continuing Dr. King's Fight for Equality and Justice"
 date:   2023-12-12 13:00:52 +0000
-categories: Crypto
+categories: Social
 ---
 ![](https://www.chicagomag.com/wp-content/uploads/2021/10/C202111-King-in-Chicago-topper-2.jpg)
 
