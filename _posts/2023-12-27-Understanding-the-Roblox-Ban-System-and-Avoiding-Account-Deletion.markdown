@@ -4,7 +4,7 @@ title: "Understanding the Roblox Ban System and Avoiding Account Deletion"
 date:   2023-12-27 16:42:52 +0000
 categories: Roblox
 ---
-
+![](https://techcrunch.com/wp-content/uploads/2021/07/roblox-logo.png)
 ### Roblox's Graduated Ban System
 
 Roblox employs a multi-tiered ban system to address rule violations. Warnings are issued for minor first offenses, while subsequent or more serious infractions receive suspensions of increasing length. Bans start at one day and can extend up to seven days. Multiple or repeated violations over time may eventually lead to permanent account deletion.
