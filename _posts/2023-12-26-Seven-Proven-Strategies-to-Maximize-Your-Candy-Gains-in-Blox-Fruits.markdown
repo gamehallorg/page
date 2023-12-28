@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mastering the Method: A Guide to Farming Candies Effectively in Blox Fruits"
-date:   2023-12-226 0:42:52 +1235
+date:   2023-12-26 0:42:52 +1235
 categories: Roblox
 ---
 ![](https://gamelevate.com/wp-content/uploads/2023/12/How-to-get-Candy-in-Blox-Fruits-and-why-you-need-to-hurry-up-1.jpg)
