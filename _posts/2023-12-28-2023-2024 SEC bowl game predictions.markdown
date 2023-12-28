@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "2023-2024 SEC bowl game predictions"
-date:   2023-12-12 13:00:52 +0000
-categories: Sport
+date:   2023-12-28 00:00:52 +0000
+categories: Social
 ---
-![](https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/16/322f3a05-0c21-4b26-a4fd-eddde2d011f6/thumbnail/620x413/060a5bf4a04e451821ae0433f32c6eb2/joe-milton.jpg)
+![](https://www.chicagomag.com/wp-content/uploads/2021/10/C202111-King-in-Chicago-topper-2.jpg)
+
+
 ### Texas Bowl Prediction
 The Texas A&M Aggies will defeat the Oklahoma State Cowboys 31-27 in a close game played at NRG Stadium in Houston, Texas on December 27. While both teams feature high-powered offenses, the Aggies will have just enough to pull out the victory. Texas A&M quarterback Haynes King will throw for over 300 yards and 3 touchdowns. Aggies running back Devon Achane will rush for over 100 yards and a score. Oklahoma State will struggle to contain both King and Achane, which will be the difference in the outcome.
 
