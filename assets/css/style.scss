@@ -1,29 +1,7 @@
---- # Only the main Sass file needs front matter (the dashes are enough) --- @import "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-"minima/initialize";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
-.sidebar {
-  float: right;
-  /* Adjust as needed */
-  width: 25%;
-  /* Adjust as needed */
-  padding: 20px;
-  background-color: #f1f1f1;
-}
-
-.sidebar h2 {
-  color: #333;
-}
-
-.sidebar ul {
-  list-style: none;
-  padding: 0;
-}
-
-.sidebar li {
-  margin-bottom: 10px;
-}
-
-.sidebar a {
-  text-decoration: none;
-  color: #007bff;
-}
+@import
+  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "minima/initialize";
