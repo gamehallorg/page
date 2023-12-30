@@ -78,7 +78,7 @@ Street Fighter 6 sets a high bar, bringing beloved characters, smooth netcode, a
 While most sims involve city-building, Terra Nil asks players to assist nature's reclamation of the destroyed Earth. Pushing environmental recovery forward proves intellectually rewarding and thought-provoking in this unique simulator.
 
 ###  Best Developer
-Nintendo had an exceptional year between acclaimed entries in their biggest franchises like The Legend of Zelda: Tears of the Kingdom and Super Mario Bros. Wonder alongside other beloved series. They continue setting the gold standard for video game development.
+Nintendo had an exceptional year between acclaimed entries in their biggest franchises like The Legend of Zelda: Tears of the Kingdom and Super Mario Bros. Wonder alongside other beloved series. They continue setting the gold standard for [video game development](https://citegame.github.io/files/news/2023/12/29/Finding-Viral-YouTube-Success-Learning-from-a-YouTube-Veteran-s-Experience.html).
 
 ###  Best Publisher 
 Capcom successfully remade genre-defining games while launching new entries in franchises like Street Fighter and Exoprimal. From Resident Evil to Monster Hunter, they expertly produce fan favorites across multiple genres at a high standard.
